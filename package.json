@@ -1,0 +1,9 @@
+{
+  "name": "startgulp",
+  "version": "1.0.0",
+  "description": "Getting Started with Gulp",
+  "main": "index.js",
+  "repository": {},
+  "author": "Kirk Lestelle",
+  "license": "MIT"
+}
